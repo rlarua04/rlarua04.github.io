@@ -11,6 +11,7 @@
 ##PROJECT
 
 **NewLife**
+
 *코로나 블루 치료 목적 취미 증진 메타버스*
 
 팀 구성 : 3명
@@ -28,10 +29,12 @@
 - 이모션으로 감정 표현 가능
 
 [NewLife 깃허브 바로가기](https://github.com/rlarua04/NewLife_beta)
+
 [NewLife 다운로드 바로가기](https://khuoo.itch.io/new-life-beta1-5)
 
 
 **CM동아리 웹사이트**
+
 *CM동아리 홍보 및 파일 업로드 목적 웹사이트*
 
 팀 구성 : 3명
