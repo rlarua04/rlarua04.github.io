@@ -1,4 +1,4 @@
-## **KYEOM KIM**
+# KYEOM KIM
 *alexki.kyum@gmail.com*
 
 **삶을 주도적으로 계획하고 실천하는 개발자 김겸입니다.**
@@ -9,7 +9,7 @@
 
 * * *
 
-## PROJECT
+# PROJECT
 
 ### NewLife
 
@@ -68,7 +68,7 @@ CM동아리만의 특별한 홍보 전략과 동아리에서 개발한 프로그
 [제 깃허브](https://github.com/rlarua04)에 다양한 프로젝트가 있으니 관심있으시다면 열람 바랍니다.
 
 
-## EDUCATION 
+# EDUCATION 
 
 ### 경기 꿈의 대학
 
@@ -96,6 +96,6 @@ CM동아리만의 특별한 홍보 전략과 동아리에서 개발한 프로그
 
 * * *
 
-## AWARDS
+# AWARDS
 
 헬로 뉴 월드 해커톤 대회 대상
