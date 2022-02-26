@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## KYEOM KIM
+#alexki.kyum@gmail.com
 
-You can use the [editor on GitHub](https://github.com/rlarua04/rlarua04.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+**삶을 주도적으로 계획하고 실천하는 개발자 김겸입니다.**
+2020년에 IT에 발을 들이고 현재까지 학교 수업과 프로그래밍 공부를 병행해왔습니다.
+짧은 시간에 기술을 배우고 팀을 꾸려 프로젝트를 진행해보니 조금은 벅찬감이 있었지만, 저에겐 부모님께서 물려주신 '노력'이라는 재능이 있어 감당할 수 있었습니다.
+앞으로도 꾸준히 노력해 O(n!)의 성장곡선을 그려나가겠습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+###PROJECT
+**NewLife**
+*코로나 블루 치료 목적 취미 증진 메타버스*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+팀 구성 : 3명
+코로나로 인해 코로나 블루를 겪는 사람들이 많다는 것을 파악하고, 조사를 통해 많은 원인 중 소통 부족과 취미 생활 단절이 크다는 것을 알게되었다.
+따라서 우리는 컴퓨터와 신기술에 친숙한 10대 20대를 대상으로 취미생활을 공유하고 소통하는 메타버스를 만들었다.
+개발 과정에서 주요 로직과 네트워크 동기화를 담당했다.
 
-```markdown
-Syntax highlighted code block
+적용 기능
+- 포톤Pun2+를 이용해 동시접속자 100명 수용
+- 플래이팹 DB로 로그인 지원, 유저 데이터 관리
+- 3D공간 반영 음성채팅, 텍스트 채팅 지원
+- 유튜브 API로 메타버스 내 유튜브 시청 가능
+- 총 20개의 다양한 아바타 지원
+- 이모션으로 감정 표현 가능
 
-# Header 1
-## Header 2
-### Header 3
+[NewLife 깃허브 바로가기](https://github.com/rlarua04/NewLife_beta)
+[NewLife 다운로드 바로가기](https://khuoo.itch.io/new-life-beta1-5)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+**CM동아리 웹사이트**
+*CM동아리 홍보 및 파일 업로드 목적 웹사이트*
 
-**Bold** and _Italic_ and `Code` text
+팀 구성 : 3명
+CM동아리만의 특별한 홍보 전략과 동아리에서 개발한 프로그램을 업로드하기 위해 이 사이트 제작 프로젝트를 진행하게 되었다. 
+개발 과정에서 서버와 DB구축, AI를 담당했다.
 
-[Link](url) and ![Image](src)
-```
+적용 기능
+- 회원가입, 로그인 지원
+- 파일 업로드 및 다운로드 가능
+- 인공지능 질의응답 봇으로 자연어 질문 답변 지원
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[동아리 사이트 바로가기](http://gyounggi.co.kr
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rlarua04/rlarua04.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**다른 작은 프로젝트**
+[제 깃허브](https://github.com/rlarua04/)에 자잘한 프로젝트가 있으니 관심있으시다면 열람 바랍니다.
