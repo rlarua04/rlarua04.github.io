@@ -35,8 +35,6 @@
 <br>
 <br>
 
-[NewLife 깃허브 바로가기](https://github.com/rlarua04/NewLife_beta)
-
 [NewLife 다운로드 바로가기](https://khuoo.itch.io/new-life-beta1-5)
 
 
