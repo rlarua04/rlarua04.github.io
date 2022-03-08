@@ -1,5 +1,6 @@
 # KYEOM KIM
 *alexki.kyum@gmail.com*
+*[Naver Blog](https://blog.naver.com/kimkyum0110)*
 
 **삶을 주도적으로 계획하고 실천하는 학생 개발자 김겸입니다.**
 
@@ -9,7 +10,7 @@
 
 * * *
 
-# SKILL
+# SKILLS
 
 ![Python Logo](/Images/Python.png){: width="70" height="70"}
 ![Java Logo](/Images/Java.png){: width="70" height="70"}
@@ -111,6 +112,13 @@ CM동아리만의 특별한 홍보 전략과 동아리에서 개발한 프로그
 
 * * *
 
+### Qualcomm Innovation Hub 로봇 교육 프로그램
+
+로봇 하드웨어 제작 / 자율 주행 자동차
+- Java & Block coding
+
+* * *
+
 # AWARDS
 
-헬로 뉴 월드 해커톤 대회 대상
+- 헬로 뉴 월드 해커톤 대회 대상
