@@ -104,3 +104,5 @@ CM동아리만의 특별한 홍보 전략과 동아리에서 개발한 프로그
 # AWARDS
 
 헬로 뉴 월드 해커톤 대회 대상
+
+![GitHub Logo](/images/logo.png){: width="50%" height="50%"}
