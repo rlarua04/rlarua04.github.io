@@ -12,10 +12,10 @@
 # SKILL
 
 ![Python Logo](/Images/Python_Logo.png){: width="20px" height="20px"}
-![Java Logo](/Images/Java_Logo.png){: width="10%" height="10%"}
-![C Logo](/Images/C_Logo.png){: width="10%" height="10%"}
-![C# Logo](/Images/Csharp_Logo.png){: width="10%" height="10%"}
-![Unity Logo](/Images/Unity_Logo.png){: width="10%" height="10%"}
+![Java Logo](/Images/Java_Logo.png){: width="20px" height="20px"}
+![C Logo](/Images/C_Logo.png){: width="20px" height="20px"}
+![C# Logo](/Images/Csharp_Logo.png){: width="20px" height="20px"}
+![Unity Logo](/Images/Unity_Logo.png){: width="20px" height="20px"}
 
 * * *
 
