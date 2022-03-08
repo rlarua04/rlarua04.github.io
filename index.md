@@ -1,5 +1,5 @@
 # KYEOM KIM
-*alexki.kyum@gmail.com*
+*alexki.kyum@gmail.com* <br>
 *[Naver Blog](https://blog.naver.com/kimkyum0110)*
 
 **삶을 주도적으로 계획하고 실천하는 학생 개발자 김겸입니다.**
