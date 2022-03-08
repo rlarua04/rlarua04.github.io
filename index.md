@@ -9,6 +9,16 @@
 
 * * *
 
+# SKILL
+
+![Python Logo](/Images/Python_Logo.png){: width="10%" height="10%"}
+![Java Logo](/Images/Java_Logo.png){: width="10%" height="10%"}
+![C Logo](/Images/C_Logo.png){: width="10%" height="10%"}
+![C# Logo](/Images/Csharp_Logo.png){: width="10%" height="10%"}
+![Unity Logo](/Images/Unity_Logo.png){: width="10%" height="10%"}
+
+* * *
+
 # PROJECT
 
 ### NewLife
@@ -104,6 +114,3 @@ CM동아리만의 특별한 홍보 전략과 동아리에서 개발한 프로그
 # AWARDS
 
 헬로 뉴 월드 해커톤 대회 대상
-
-
-![GitHub Logo](/Images/c_original_logo_icon_146611.png){: width="50%" height="50%"}
